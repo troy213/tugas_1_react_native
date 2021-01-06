@@ -1,14 +1,14 @@
 # TUGAS 1 REACT NATIVE
 
 
-## Tujuan :
+#### Tujuan :
 
 - Memahami cara instalasi react native.
 - Memahami struktur file react native
 - Memahami cara penggunaan class component.
 - Memahami cara penggunaan function component
 
-## Petunjuk :
+#### Petunjuk :
 
 - Perintah untuk membuat project baru :
 ```
@@ -31,7 +31,7 @@ const nama_function_component = () => {
 };
 ```
 
-## Tugas :
+#### Tugas :
 
 Pada tugas ini anda diminta untuk membuat sebuah project baru dengan nama tugas1_react_native :
 
