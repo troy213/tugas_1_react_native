@@ -40,6 +40,7 @@ Didalam App.js Buatlah :
 2. **1 class component** (App)
 Pada folder **Component** ada **4 buah file**, pada masing-masing file buatlah sebuah **class component** dengan nama sesuai nama file tersebut **( Menu Utama, Menu Berita, Menu Game, Menu Hits)**
 Struktur file yang harus anda buat :
+
 ![img1](https://lh5.googleusercontent.com/PvgYL5o8Ze38pIi4rOtE2e8WnXeR9ukdain3U4GMTJYnFA0vF-6IVFeOw2BUdRJdiICQSGJ2B0u_Pfgpv9L6yeEFp3GsmxrrmmqKzF5MBFg5gVrh0Nlm6aVsdGpUM9foCtA1STX0)
 
 Tampilan aplikasi akan tampil seperti pada gambar di bawah :
