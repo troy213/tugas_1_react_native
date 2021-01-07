@@ -21,7 +21,8 @@ class nama_class_component extends Component {
                 render() {
                    return (
                         // Tuliskan Code anda Di Sini
-);  } }
+);  } 
+}
 ```
 
 - Code Membuat Function Component
